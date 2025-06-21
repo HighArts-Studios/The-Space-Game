@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Обновление 1.1",
+    "description": "Добавлены новые функции и исправлены ошибки.",
+    "image_url": "https://site.com/news1.jpg"
+  },
+  {
+    "title": "Событие в игре",
+    "description": "Ивент будет проходить с 5 по 10 июля.",
+    "image_url": "https://site.com/news2.jpg"
+  }
+]
